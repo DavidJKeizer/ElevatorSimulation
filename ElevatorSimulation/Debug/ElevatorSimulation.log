@@ -1,0 +1,4 @@
+﻿  ElevatorSimulation.cpp
+c:\users\david\documents\visual studio 2015\projects\elevatorsimulation\elevatorsimulation\elevatorsimulation.cpp(37): warning C4101: 'exception': unreferenced local variable
+  ElevatorSimulation.vcxproj -> C:\Users\david\documents\visual studio 2015\Projects\ElevatorSimulation\Debug\ElevatorSimulation.exe
+  ElevatorSimulation.vcxproj -> C:\Users\david\documents\visual studio 2015\Projects\ElevatorSimulation\Debug\ElevatorSimulation.pdb (Full PDB)
