@@ -1,4 +1,4 @@
-This project is an apprximate simulation of a series of an elevator controller.
+This project is an approximate  simulation of a series of an elevator controller.
 Usage: $ElevatorSimulation [NumberOfFloors] [Number of Shafts]
 
 When the program is running, commands can be given to control the simulation:
